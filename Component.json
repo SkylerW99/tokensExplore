@@ -1,0 +1,60 @@
+{
+    "Button": {
+      "Fill": {
+        "Primary": {
+          "Enabled": {
+            "value": "{col.Accent.Primary.Pink1}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{Pink.400}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{col.fg.2}",
+            "type": "color"
+          }
+        },
+        "Seondary": {
+          "Enabled": {
+            "value": "{col.fg.6}",
+            "type": "color"
+          },
+          "Pressed": {
+            "value": "{col.fg.5}",
+            "type": "color"
+          },
+          "Disabled": {
+            "value": "{col.fg.2}",
+            "type": "color"
+          }
+        }
+      },
+      "Text": {
+        "Primary": {
+          "value": "{Text.onSurface.1}",
+          "type": "color"
+        },
+        "Inverse": {
+          "value": "{col.Text.Inverse.Primary}",
+          "type": "color"
+        }
+      }
+    },
+    "Divider": {
+      "1": {
+        "value": "{col.fg.4}",
+        "type": "color"
+      }
+    },
+    "Border": {
+      "White": {
+        "value": "{col.fg.7}",
+        "type": "color"
+      },
+      "Pink": {
+        "value": "{col.Accent.Primary.Pink2}",
+        "type": "color"
+      }
+    }
+  }

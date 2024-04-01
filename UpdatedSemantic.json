@@ -1,0 +1,142 @@
+{
+  "col": {
+    "bg": {
+      "primary": {
+        "value": "#242424",
+        "type": "color"
+      },
+      "Primary": {
+        "value": "#",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "1": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "2": {
+        "value": "#303030",
+        "type": "color"
+      },
+      "3": {
+        "value": "#4b4b4b",
+        "type": "color"
+      },
+      "4": {
+        "value": "#979797",
+        "type": "color"
+      },
+      "5": {
+        "value": "#b0b0b0",
+        "type": "color"
+      },
+      "6": {
+        "value": "#d0d0d0",
+        "type": "color"
+      },
+      "7": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "Overlay": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "default": {
+        "Primary": {
+          "value": "#fafafa",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "#b0b0b0",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "#979797",
+          "type": "color"
+        }
+      },
+      "Inverse": {
+        "Primary": {
+          "value": "#242424",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "#303030",
+          "type": "color"
+        }
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "Pink1": {
+          "value": "#bf2bbf",
+          "type": "color"
+        },
+        "Pink2": {
+          "value": "#d341d5",
+          "type": "color"
+        },
+        "Pink3": {
+          "value": "#e45be5",
+          "type": "color"
+        },
+        "Pink4": {
+          "value": "#ef78ee",
+          "type": "color"
+        }
+      },
+      "Seondary": {
+        "Lavendar": {
+          "value": "#cea6fd",
+          "type": "color"
+        }
+      },
+      "Tertiary": {
+        "Orange": {
+          "value": "#ffbc66",
+          "type": "color"
+        }
+      },
+      "Gradient": {
+        "1": {
+          "value": "linear-gradient(90deg, #db3eb133 0%, #db3eb199 16.15%, #db3eb1 50.35%, #db3eb199 86.98%, #db3eb133 100%)",
+          "type": "color"
+        },
+        "2": {
+          "value": "linear-gradient(180deg, #db3eb180 0%, #db3eb126 35.5%, #db3eb100 91.15%)",
+          "type": "color"
+        }
+      }
+    },
+    "Support": {
+      "success": {
+        "value": "#1ca872",
+        "type": "color"
+      },
+      "Error": {
+        "value": "#ea4a5a",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "1": {
+        "value": "#fafafa",
+        "type": "color"
+      },
+      "2": {
+        "value": "#979797",
+        "type": "color"
+      }
+    }
+  }
+}

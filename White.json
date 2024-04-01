@@ -1,0 +1,142 @@
+{
+    "bg": {
+      "primary": {
+        "value": "#F2F1F6",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "1": {
+        "value": "{Grey.800}",
+        "type": "color"
+      },
+      "2": {
+        "value": "{Grey.700}",
+        "type": "color"
+      },
+      "3": {
+        "value": "{Grey.600}",
+        "type": "color"
+      },
+      "4": {
+        "value": "{Grey.500}",
+        "type": "color"
+      },
+      "5": {
+        "value": "{Grey.300}",
+        "type": "color"
+      },
+      "6": {
+        "value": "{Grey.200}",
+        "type": "color"
+      },
+      "7": {
+        "value": "{Grey.100}",
+        "type": "color"
+      }
+    },
+    "Overlay": {
+      "1": {
+        "value": "rgba( {Grey.50},0.7)",
+        "type": "color"
+      }
+    },
+    "Text": {
+      "default": {
+        "Primary": {
+          "value": "{Grey.75}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Grey.400}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{Grey.500}",
+          "type": "color"
+        }
+      },
+      "Inverse": {
+        "Primary": {
+          "value": "{Grey.800}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{Grey.700}",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "{Grey.600}",
+          "type": "color"
+        }
+      },
+      "onSurface": {
+        "1": {
+          "value": "{Grey.800}",
+          "type": "color"
+        }
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "Pink1": {
+          "value": "#DB3EB1",
+          "type": "color"
+        },
+        "Pink2": {
+          "value": "{Pink.700}",
+          "type": "color"
+        },
+        "Pink3": {
+          "value": "{Pink.800}",
+          "type": "color"
+        },
+        "Pink4": {
+          "value": "{Pink.900}",
+          "type": "color"
+        }
+      },
+      "Seondary": {
+        "Lavendar": {
+          "value": "{Purple.1000}",
+          "type": "color"
+        }
+      },
+      "Tertiary": {
+        "Orange": {
+          "value": "{Orange.1100}",
+          "type": "color"
+        }
+      },
+      "Gradient": {
+        "1": {
+          "value": "{Gradient.1}",
+          "type": "color"
+        },
+        "2": {
+          "value": "{Gradient.2}",
+          "type": "color"
+        }
+      }
+    },
+    "Support": {
+      "success": {
+        "value": "{Green.800}",
+        "type": "color"
+      },
+      "Error": {
+        "value": "{Red.800}",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "1": {
+        "value": "{Grey.75}",
+        "type": "color"
+      },
+      "2": {
+        "value": "{Grey.500}",
+        "type": "color"
+      }
+    }
+  }
